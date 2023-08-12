@@ -1,5 +1,5 @@
 # Nebula - Hypixel
-Nebula was designed by `i5` to improve on lilith, and provide its paid features for free.
+Nebula was designed by `i5` to improve on Lilith, and provide its paid features for free.
 
 ## Getting Started:
 - Clone this repository or download its code.
