@@ -8,8 +8,8 @@ if ERRORLEVEL 1 (
 )
 
 echo Successfully installed required packages.
-echo Running main.pyw...
-start pythonw main.pyw
+echo Running main.py...
+start pythonw main.py
 
 echo Done!
 exit
