@@ -5,7 +5,7 @@ Nebula was designed by `i5` to improve on Lilith, and provide its paid features 
 - Clone this repository or download its code.
 - Manually install all the required dependencies(pymchat, pynput, colorama) or Open your command prompt or terminal, navigate to the directory containing the requirements.txt file, and run the following command:
 ```pip install -r requirements.txt```
-- Edit the `config.json` file, enter your Hypixel API Key, and change the settings to you liking.
+- Edit the `config.json` file, enter your Hypixel API Key, and change the settings to your liking.
 - Run `start.bat`.
 
 ## Setting up AutoRequeue (Optional)
