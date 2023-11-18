@@ -38,4 +38,4 @@ If a likely nicked player is detected, they will also be dodged.
 The program will provide colorful output for player statistics, dodge decisions, and requeuing notifications.
 
 ## Credits:
-*Better Lilith was created by `i5r` based on Lilith v1.0.29 made by nea and their team. The program uses the Hypixel API for fetching player statistics. It also utilizes the pymchat, pynput, and colorama libraries for chat interaction, keyboard control, and colorful output, respectively. Special thanks to the open-source community for their contributions to the development of these libraries. View CREDITS.txt for more.*
+*Nebula was created by `i5r` based on Lilith v1.0.29 made by nea and their team. The program uses the Hypixel API for fetching player statistics. It also utilizes the pymchat, pynput, and colorama libraries for chat interaction, keyboard control, and colorful output, respectively. Special thanks to the open-source community for their contributions to the development of these libraries. View CREDITS.txt for more.*
